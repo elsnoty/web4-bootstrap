@@ -47,7 +47,9 @@ margin: auto;
 
 }
 /* End Header */
-
+.carousel-item1{
+display: flex;
+}
 
 
 
