@@ -29,5 +29,3 @@ couponcolor.style.color="rgb(167,243,208)";
 
 */
 
-var couponcolor = document.getElementById("copy-coupon");
-couponcolor.style.color="rgb(167,243,208)";
