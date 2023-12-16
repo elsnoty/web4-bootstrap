@@ -35,7 +35,8 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #eee;
+
+    margin: 40px;
 
 }
 .contanier .about-bar .card{
@@ -46,7 +47,6 @@ html{
     align-items: center;
 }
 .contanier .about-bar .card:hover{
-    background-color:#acc9d3;
     transition: 0.5s linear 0s;
     transform: translateY(-15px);
     -webkit-transform: translateY(-15px);
